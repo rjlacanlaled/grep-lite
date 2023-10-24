@@ -1,11 +1,9 @@
 <div align="center">
     <hr />
-        <h2 align="center" style="Grep-lite.</h2>
-        <img alt="GitHub" src="https://img.shields.io/github/license/txpipe/oura" />
-        <img alt="Crates.io" src="https://img.shields.io/crates/v/oura" />
-        <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/txpipe/oura/validate.yml" />
+        <h2 align="center" style="border-bottom: none">Grep-lite</h2>
     <hr/>
 </div>
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Introduction
 
