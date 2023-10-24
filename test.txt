@@ -1,0 +1,4 @@
+As you can see, Rust’s strings can do quite a lot by themselves. 
+Some features of listing 2.20 that are worth highlighting include the following. 
+From here, we’ll expand the functionality of our proto-application.
+
